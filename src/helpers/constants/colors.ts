@@ -1,0 +1,27 @@
+const COLOR = {
+  Primary: '#565656',
+  Secondary: '#399be0',
+  Default: '#FFFFFF',
+  DefaultSelected: '#222222',
+  Border: '#E7E7E8',
+  Success: '#2BC480',
+  Warning: '#D91E5B',
+  Black: '#000000',
+  RedAgora: '#BB2C4B',
+  Grey: '#8B8B8B',
+  DarkMode: '#000000',
+  DarkGrey: '#57606f',
+  Navy: '#212133',
+  GreyBlur: '#636e72',
+  Green: '#28D584',
+  Red: '#D52849',
+  GreyDarken: '#292929',
+  GreyDarken1: '#393A4B',
+  GreyDarken2: '#17191A',
+  GreyDarken3: '#2B2C34',
+  GreyLighten: '#464646',
+  BlueLighten: '#373956',
+  Chocolate: '#414141',
+};
+
+export { COLOR };
